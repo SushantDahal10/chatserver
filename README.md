@@ -434,3 +434,51 @@ int main() {
 
     return 0;
 }
+
+
+
+
+I'm reading Nitin Seth's Human Edge in the AI Age right now, and one idea has really changed how I think about growth in the AI age.
+The "Important Inversion."
+For a long time, a lot of us thought that the safest way to go was to become more technical, more specialised, and more data-driven.
+But what if the real advantage is becoming more human?
+The Architectural Mirror is a strong idea in the book. It compares AI layers to human consciousness:
+• Buddhi, the Macro Layer
+The group intelligence in basic models like ChatGPT
+• Enterprise Layer, Ahamkara
+Organisational identity shaped by proprietary data
+• Manas, the Individual Layer
+The sensory mind that makes hyper-personalization possible
+It changed how I thought about AI.
+Not as a threat.
+Not as a tool.
+But not as a mirror.
+Two things stood out.
+The job loss in 2040.
+Predictions say that there will be a net job loss of up to 45% around the world. If everyone is trying to do the same thing, moving "up the value chain" might not be enough.
+Getting back to our natural instincts.
+As machines get better at logic and efficiency, we need to rely more on our gut feelings, judgement, courage, willingness to take risks, and social intelligence. The traits we have quietly suppressed in a digital world that is driven by comfort.
+This became real for me after something that happened recently.
+I was making a complicated workflow work better. I had dashboards, simulations, and clean data sets. Everything looked like it was being analysed and controlled.
+But I felt stuck.
+Looking back, I was only working on the sensory level, taking in information, responding to metrics, and improving outputs. I was making the most of the space the system gave me.
+So I did something that made me feel bad.
+I left.
+There were no dashboards for two days. No tests. No checking all the time.
+Instead, I thought about it. I drew a map of the system on paper. I asked simple questions again. What is this really trying to fix? Who gains? Where is friction hiding?
+That break changed everything.
+When I got back, I noticed that the steps in the workflow weren't quite in sync. Each metric was improved on its own, but the overall logic caused problems between teams. There was no dashboard that showed it because the system wasn't set up to measure that relationship.
+The breakthrough didn't happen because of more data.
+It came from a different point of view.
+That moment made something clear to me.
+I don't think I'm worth more than AI because I can process information faster.
+My worth is in noticing what the data doesn't show.
+By questioning what we think we know.
+In making connections between different situations.
+The AI age might not be the end of chances.
+It could be the end of thinking about your career passively.
+The time of jobs may get shorter.
+The time of people who start their own businesses may grow.
+The edge is real, not fake.
+It is human.
+
