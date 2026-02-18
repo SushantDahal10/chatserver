@@ -434,10 +434,6 @@ int main() {
 
     return 0;
 }
-
-
-
-
 I'm reading Nitin Seth's Human Edge in the AI Age right now, and one idea has really changed how I think about growth in the AI age.
 The "Important Inversion."
 For a long time, a lot of us thought that the safest way to go was to become more technical, more specialised, and more data-driven.
@@ -481,4 +477,8 @@ The time of jobs may get shorter.
 The time of people who start their own businesses may grow.
 The edge is real, not fake.
 It is human.
+
+
+
+
 
